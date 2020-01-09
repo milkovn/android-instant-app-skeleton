@@ -1,0 +1,2 @@
+include ':base', ':installed', ':installed', ':instant'
+rootProject.name='android instant app skeleton'
